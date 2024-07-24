@@ -79,7 +79,7 @@ class TripCrew:
         result = crew.kickoff()
         return result
 
-st.title("Welcome to Trip Planner Crew")
+st.title("Welcome to Trip Planner")
 st.write('-------------------------------')
 
 origin = st.text_input("From where will you be traveling from?")
