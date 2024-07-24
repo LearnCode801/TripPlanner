@@ -1,0 +1,7 @@
+crewai==0.1.24
+unstructured==0.10.25
+pyowm==3.3.0
+python-dotenv==1.0.0
+langchain_google_genai
+streamlit
+langchain-groq
