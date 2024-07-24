@@ -6,7 +6,23 @@ from tasks import TravelTasks
 
 from dotenv import load_dotenv
 load_dotenv()
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            </style>
+            """
 
+linkedin_link = "[LinkedIn](https://www.linkedin.com/in/muhammad-talha-806126234/)"
+
+# st.markdown(hide_st_style, unsafe_allow_html=True)
+st.markdown(hide_st_style, unsafe_allow_html=True)
+
+# Your Streamlit app content here
+
+st.sidebar.markdown(github_link, unsafe_allow_html=True)
+st.sidebar.markdown(linkedin_link, unsafe_allow_html=True)
 
 class TripCrew:
     def __init__(self, origin, cities, date_range, interests):
