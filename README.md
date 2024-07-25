@@ -1,5 +1,3 @@
-Sure! Here's a draft for your GitHub repository's README file:
-
 ---
 
 # 🌍 Trip Planner 🚀
@@ -97,5 +95,3 @@ This project is licensed under the MIT License.
 Special thanks to everyone who contributed to this project!
 
 ---
-
-Feel free to modify any sections to better fit your project's details and preferences.
