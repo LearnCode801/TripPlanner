@@ -1,5 +1,3 @@
----
-
 # 🌍 Trip Planner 🚀
 
 Welcome to **Trip Planner**, your AI-powered travel assistant designed to help you plan the perfect trip with ease and precision.
@@ -93,5 +91,3 @@ This project is licensed under the MIT License.
 ## 🎉 Acknowledgements
 
 Special thanks to everyone who contributed to this project!
-
----
