@@ -27,8 +27,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/trip-planner.git
-    cd trip-planner
+    [git clone https://github.com/yourusername/trip-planner.git
+    cd trip-planner](https://github.com/LearnCode801/TripPlanner.git)
     ```
 
 2. **Install dependencies:**
