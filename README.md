@@ -1,6 +1,9 @@
 # 🌍 Trip Planner 🚀
 
 Welcome to **Trip Planner**, your AI-powered travel assistant designed to help you plan the perfect trip with ease and precision.
+## 🔗 Live Demo
+
+Check out the live demo of Trip Planner: [Trip Planner](https://tripplanner-infcuozcjrf6yhsxa3krzi.streamlit.app/)
 
 ## 📝 Overview
 
@@ -65,9 +68,7 @@ To run this project locally, follow these steps:
 - **Identify City:** Select the best city based on various factors.
 - **Gather City Info:** Compile detailed information about the chosen city.
 
-## 🔗 Live Demo
 
-Check out the live demo of Trip Planner: [Trip Planner](https://tripplanner-infcuozcjrf6yhsxa3krzi.streamlit.app/)
 
 ## 🛠️ Built With
 
@@ -80,9 +81,6 @@ Check out the live demo of Trip Planner: [Trip Planner](https://tripplanner-infc
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is licensed under the MIT License.
 
 ## 📧 Contact
 
@@ -91,3 +89,4 @@ This project is licensed under the MIT License.
 ## 🎉 Acknowledgements
 
 Special thanks to everyone who contributed to this project!
+
