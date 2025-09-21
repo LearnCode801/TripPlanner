@@ -5,6 +5,9 @@ Welcome to **Trip Planner**, your AI-powered travel assistant designed to help y
 
 Check out the live demo of Trip Planner: [Trip Planner](https://tripplanner-infcuozcjrf6yhsxa3krzi.streamlit.app/)
 
+## 🔗 Demo Video
+
+Check out the live demo of Trip Planner: [Trip Planner Video Demo](https://lnkd.in/p/dJax-dhd)
 ## 📝 Overview
 
 **Trip Planner** leverages the power of AI to curate detailed travel itineraries, select ideal destinations, and provide local insights. Whether you're planning a weekend getaway or a long vacation, Trip Planner has got you covered!
@@ -89,4 +92,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 🎉 Acknowledgements
 
 Special thanks to everyone who contributed to this project!
+
 
